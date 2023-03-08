@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World!
-```
- Carlos aqui
-```
+## Hello World!
 
 ### Sobre mim:
 
   Sou graduado em Ciência da Computação & apaixonado por código.
-  Aprendizagem contínua é o que mais motiva a seguir em frente nessa área.
+  Aprendizagem contínua é o que mais me motiva a seguir em frente nessa área.
 
 ### Estudando atualmente:
 <div>
@@ -29,6 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/golang-87CEFA?style=for-the-badge&logo=go&logoColor=black" />
 </div>
 
 ### Minhas linguagens
