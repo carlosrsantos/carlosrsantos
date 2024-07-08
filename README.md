@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/golang-87CEFA?style=for-the-badge&logo=go&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" />
 </div>
 
 ### Minhas linguagens
