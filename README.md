@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 ### Sobre mim:
 
   Sou graduado em Ciência da Computação & apaixonado por código.
+    
   Aprendizagem contínua é o que mais me motiva a seguir em frente nessa área.
-  🔭 Atualmente Desenvolvedor Web Full Stack trabalhando com : 👨🏾‍💻
+  
+  🔭 Atualmente Desenvolvedor Web Full Stack trabalhando com:
   <div>
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />      
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -32,9 +34,9 @@ Here are some ideas to get you started:
 
 ### Possuo conhecimentos também em:
 <div>
-  <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
+ * <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white" />
+ * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" />
+ * <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
 </div>
 
 ### Banco de dados 
