@@ -33,11 +33,9 @@ Here are some ideas to get you started:
   </div>
 
 ### Possuo conhecimentos também em:
-<div>
  * <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white" />
  * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" />
  * <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
-</div>
 
 ### Banco de dados 
 #### Relacionais:
