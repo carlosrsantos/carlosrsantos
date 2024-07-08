@@ -29,7 +29,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" />
 </div>
 
-### Banco de dados Relacionais && NoSQL
+### Banco de dados 
+#### * Relacionais:
+* <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff" />
+* <img src="https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
+
+###  * Não Relacionais:
+* <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+* <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+* <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
 
 ### Desenvolvedor Web Full Stack 👨🏾‍💻
 
