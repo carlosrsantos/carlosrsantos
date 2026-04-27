@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 #### Relacionais:
 * <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff" />
 * <img src="https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
+* <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ### Não Relacionais:
 * <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
