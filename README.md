@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim:
 
-  Sou graduado em Ciência da Computação & apaixonado por código.
+  Sou graduado em Ciência da Computação, Especialista em Desenvolvimento Web & apaixonado por código.
     
   Aprendizagem contínua é o que mais me motiva a seguir em frente nessa área.
   
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ### Possuo conhecimentos também em:
  * <img src="https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white" />
  * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" />
+ * <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" /> 
+ * <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
  * <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
 
 ### Banco de dados 
